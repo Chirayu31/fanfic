@@ -8,3 +8,5 @@ A website that generates AI-powered fan fiction stories using OpenAI API, built 
 - User-friendly interface for generating and reading stories
 - React Router for navigation and route management
 - Axios for API calls and data retrieval
+
+[Live Preview](https://fanfic.netlify.app/)
